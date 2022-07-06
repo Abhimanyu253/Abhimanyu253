@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhimanyu253
-- 👀 I’m interested in Machine learning and Deep Learning, and I have done self case studies as POC.
+- 👀 I’m Machine Learning/Deep Learning Professional with 3 years of total industry experience in predictive Modelling. Have sound mathematical knowledge and understanding of various machine learning and Deep Learning Algorithms. 
 - 🌱 I’m constantly learning in this field.
-- 📫 How to reach me - abhimanyu12000115001@gmail.com
+- 📫 How to reach me - abhimanyuachyut@gmail.com
 
 <!---
 Abhimanyu253/Abhimanyu253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
